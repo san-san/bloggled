@@ -3,6 +3,6 @@ title: bloggled!
 description: The internet's source of bloggled blogs
 timezone: Australia/Sydney
 baseurl: /bloggled
-permalink: /:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-feed

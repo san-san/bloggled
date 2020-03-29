@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "welcome!"
-date: 2020-03-29
-category: general
+title: site-launched
+date: 2020-03-29 16:53 +1100
 author: santosh
-
 ---
 
-Welcome! 
+Welcome!
