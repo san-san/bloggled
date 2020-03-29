@@ -2,6 +2,6 @@ theme: jekyll-theme-slate
 title: bloggled!
 description: The internet's source of bloggled blogs
 timezone: Australia/Sydney
-permalink: bloggled/blog/:year/:month/:day/:title
+permalink: /bloggled/blog/:year/:month/:day/:title
 plugins:
   - jekyll-feed
